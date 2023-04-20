@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about data science and microservice architecture
 - 📫 How to reach me: harmaharcri@hotmail.com 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to read and I love playing pokemon games, I actually love video games. 
+- ⚡ Fun fact: I love to read (ask for recommendation or recommend me one book!) and I love playing pokemon games, I actually love video games. 
+- 📚 Book of the day: It did not start with you.
