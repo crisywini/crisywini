@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to read (ask for recommendation or recommend me one book!) and I love playing pokemon games, I actually love video games. 
 - 📚 Books of the day: It did not start with you, The Name of the Wind.
+- 🎮️ Current game: Legend of Zelda: Breath of the Wild.
