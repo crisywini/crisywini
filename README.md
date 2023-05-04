@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 - 📚 Books of the day: It did not start with you, The Name of the Wind.
 - 🎮️ Current game: Legend of Zelda: Breath of the Wild.
 
-Programming languages level: 
-- Java
-- Python
-- Elixir
+| Programming Language | Level |
+| ----------- | ----------- |
+| Java | &block; &block; &block;
+| Python | &block; &block; &block;
+| Elixir | &block; | 
