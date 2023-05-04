@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to read (ask for recommendation or recommend me one book!) and I love playing video games, I am learning also how to create them! 
 - 📚 Books of the day: It did not start with you, The Name of the Wind.
 - 🎮️ Current game: Legend of Zelda: Breath of the Wild.
+
+Programming languages level: 
+- Java
+- Python
+- Elixir
