@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📚 Books of the day: It did not start with you, The Name of the Wind.
 - 🎮️ Current game: Legend of Zelda: Breath of the Wild.
 
-| Programming Language | Level |
+| Programming Language | Confidence Level |
 | ----------- | ----------- |
 | Java | &block; &block; &block;
 | Python | &block; &block; &block;
