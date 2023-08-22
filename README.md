@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: harmaharcri@hotmail.com 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love to read (ask for recommendation or recommend me one book!) and I love playing video games, I am learning also how to create them! 
-- 📚 Books of the day: It did not start with you, The Name of the Wind.
+- 📚 Books of the day: The Martian Chronicles, It did not start with you, The Name of the Wind.
 - 🎮️ Current game: Legend of Zelda: Breath of the Wild.
 
 | Programming Language | Confidence Level |
