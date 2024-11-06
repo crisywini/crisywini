@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--->
+-->✨
 
 - 🔭 I’m currently working on software programming, data science, researchs, study, myself and a lot of stuffs 
 - 🌱 I’m currently learning clean code, Java, Spring, Python for data science and software development, microservices architecture, and Elixir
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 | Programming Language | Confidence Level |
 | ----------- | ----------- |
-| Java | &block; &block; &block; |
-| Python | &block; &block; &block; |
+| Java | &block; &block; &block; &block; &block; &block;  |
+| Python | &block; &block; &block; &block; &block; &block; |
 | Elixir | &block; | 
-| Go     | &block; &block; &block; |
+| Go     | &block; &block; &block;|
