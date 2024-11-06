@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 | Programming Language | Confidence Level |
 | ----------- | ----------- |
-| Java | &block; &block; &block;
-| Python | &block; &block; &block;
+| Java | &block; &block; &block; |
+| Python | &block; &block; &block; |
 | Elixir | &block; | 
+| Go     | &block; &block; &block; |
