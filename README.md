@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 | Python | &block; &block; &block; &block; &block; &block; |
 | Elixir | &block; | 
 | Go     | &block; &block; &block;|
+| Javascript     | &block; &block; &block;|
+
