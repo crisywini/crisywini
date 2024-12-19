@@ -1,28 +1,53 @@
-### Hi there I am Crisi👋
+🌟 Hi, I’m Crisi! 👋
 
-<!--
-**crisywini/crisywini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Engineer | Developer | Data Wizard | Gamer ✨
 
-Here are some ideas to get you started:
+I’m a Systems Engineer and Master in Engineering with a focus on Data Analytics. Passionate about crafting clean and efficient code, exploring cutting-edge technologies, and solving problems that matter. I’m always eager to learn and share knowledge through collaboration and mentorship.
 
--->✨
+🚀 About Me
+	•	🔭 Currently working on: Software development, backend architecture, and data science projects.
+	•	🌱 Currently learning: Clean code principles, Java, Spring, Python for data science, microservices architecture, Go, and Elixir.
+	•	🎯 Core expertise:
+	•	Backend Development: Spring, Helidon, FastAPI
+	•	Frontend Frameworks: Vue.js, React
+	•	Microservices & Scalability: Designing robust systems.
+	•	Data Analytics: From pipelines to insights.
+	•	👯 Looking to collaborate on: Open source projects and innovative tech ideas.
+	•	🤔 Seeking help with: Advanced clean code practices.
+	•	💬 Ask me about: Data science, backend development, and microservice architecture.
 
-- 🔭 I’m currently working on software programming, data science, researchs, study, myself and a lot of stuffs 
-- 🌱 I’m currently learning clean code, Java, Spring, Python for data science and software development, microservices architecture, and Elixir
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with learning everything that allows me to improve clean code
-- 💬 Ask me about data science and microservice architecture
-- 📫 How to reach me: harmaharcri@hotmail.com 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love to read (ask for recommendation or recommend me one book!) and I love playing video games, I am learning also how to create them! 
-- 📚 Books of the day: The Adventures of Sherlock Holmes, The Martian Chronicles, The Name of the Wind.
-- 🎮️ Current game: Legend of Zelda: Breath of the Wild.
+🌟 Fun Facts
+	•	📚 Bookworm: Always reading! Feel free to recommend a book or ask me for one!
+	•	Current reads: The Adventures of Sherlock Holmes, The Martian Chronicles, The Name of the Wind.
+	•	🎮 Gamer: Currently exploring The Legend of Zelda: Breath of the Wild.
+	•	⚡ Other hobbies: Creating video games, exploring AI, and crafting creative side projects.
 
-| Programming Language | Confidence Level |
-| ----------- | ----------- |
-| Java | &block; &block; &block; &block; &block; &block;  |
-| Python | &block; &block; &block; &block; &block; &block; |
-| Elixir | &block; | 
-| Go     | &block; &block; &block;|
-| Javascript     | &block; &block; &block;|
+🛠️ My Toolbox
 
+🖥️ Programming Languages
+
+Language	Confidence Level
+Java	🌟🌟🌟🌟🌟🌟
+Python	🌟🌟🌟🌟🌟🌟
+Elixir	🌟
+Go	🌟🌟🌟
+JavaScript	🌟🌟🌟
+
+🔧 Frameworks & Tools
+
+Backend	Frontend	Others
+Spring Boot	Vue.js	Docker, Kubernetes
+Helidon	React	Git, CI/CD pipelines
+FastAPI		Google Cloud Platform
+
+🌍 Let’s Connect
+	•	📫 Reach me at: harmaharcri@hotmail.com
+	•	💻 LinkedIn
+	•	🐦 Twitter
+	•	🌐 Portfolio/Blog
+
+📈 My GitHub Stats
+
+🌟 Motto
+
+“Code with passion, learn with curiosity, live with creativity.”
