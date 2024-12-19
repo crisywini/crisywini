@@ -52,7 +52,7 @@ I'm a **Systems Engineer** and **Master in Engineering with a focus on Data Anal
 ## 🌍 Let's Connect  
 
 - 📫 Reach me at: **harmaharcri@hotmail.com**  
-- 💻 [LinkedIn](https://www.linkedin.com/in/tu-usuario)  
+- 💻 [LinkedIn](https://co.linkedin.com/in/cristian-sánchez-pineda-7164581a0)  
 - 🌐 [Portfolio/Blog](https://tu-web-personal.com)  
 
 ---
