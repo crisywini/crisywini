@@ -6,7 +6,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 
 ## 🚀 About Me  
 
-- 🔭 **Currently working on:** Software development, backend architecture, and data science projects.  
+- 🔭 **Currently working on:** Software development, backend architecture, data science projects and frontend cute projects.  
 - 🌱 **Currently learning:** Clean code principles, Java, Spring, Python for data science, microservices architecture, Go, and Elixir.  
 - 🎯 **Core expertise:**  
   - Backend Development: **Spring**, **Helidon**, **FastAPI**  
