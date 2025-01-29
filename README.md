@@ -45,7 +45,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 |---------------------|---------------------|----------------------------|  
 | **Spring Boot**     | **Vue.js**          | Docker, Kubernetes         |  
 | **Helidon**         | **React**           | Git, CI/CD pipelines       |  
-| **FastAPI**         |                     | Google Cloud Platform      |  
+| **FastAPI**         | **Vue.js**          | Google Cloud Platform      |  
 
 ---
 
