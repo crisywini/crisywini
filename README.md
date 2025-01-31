@@ -21,7 +21,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 ## 🌟 Fun Facts  
 
 - 📚 **Bookworm:** Always reading! Feel free to recommend a book or ask me for one!  
-  - *Current reads:* The Adventures of Sherlock Holmes, The Martian Chronicles, The Name of the Wind.  
+  - *Current reads:* El infinito en un Junco.  
 - 🎮 **Gamer:** Currently exploring *The Legend of Zelda: Breath of the Wild*.  
 - ⚡ **Other hobbies:** Creating video games, exploring AI, and crafting creative side projects.  
 
