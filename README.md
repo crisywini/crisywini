@@ -59,8 +59,8 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 
 ## 📈 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisywini&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisywini&hide_progress=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisywini&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisywini&hide_progress=true)
+
 
 ---
 
