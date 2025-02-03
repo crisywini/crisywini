@@ -22,7 +22,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 
 - 📚 **Bookworm:** Always reading! Feel free to recommend a book or ask me for one!  
   - *Current reads:* El infinito en un Junco.  
-- 🎮 **Gamer:** Currently exploring *The Legend of Zelda: Breath of the Wild*.  
+- 🎮 **Gamer:** Currently exploring *The Legend of Zelda: Tears of the Kingdom*.  
 - ⚡ **Other hobbies:** Creating video games, exploring AI, and crafting creative side projects.  
 
 ---
@@ -37,7 +37,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 | **Python**       | 🌟🌟🌟🌟🌟🌟 |  
 | **Elixir**       | 🌟              |  
 | **Go**           | 🌟🌟🌟         |  
-| **JavaScript**   | 🌟🌟🌟         |  
+| **JavaScript**   | 🌟🌟🌟🌟         |  
 
 ### 🔧 Frameworks & Tools  
 
