@@ -53,7 +53,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 
 - 📫 Reach me at: **harmaharcri@hotmail.com**  
 - 💻 [LinkedIn](https://co.linkedin.com/in/cristian-sánchez-pineda-7164581a0)  
-- 🌐 [Portfolio/Blog]([https://crisywini.github.io/])  
+- 🌐 [Portfolio/Blog](https://crisywini.github.io/)  
 
 ---
 
