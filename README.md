@@ -35,9 +35,9 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 |------------------|-------------------|  
 | **Java**         | 🌟🌟🌟🌟🌟🌟 |  
 | **Python**       | 🌟🌟🌟🌟🌟🌟 |  
-| **Elixir**       | 🌟              |  
-| **Go**           | 🌟🌟🌟         |  
-| **JavaScript**   | 🌟🌟🌟🌟         |  
+| **Elixir**       | 🌟           |  
+| **Go**           | 🌟🌟🌟       |  
+| **JavaScript**   | 🌟🌟🌟🌟🌟   |  
 
 ### 🔧 Frameworks & Tools  
 
