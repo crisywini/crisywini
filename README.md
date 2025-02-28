@@ -33,11 +33,11 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 
 | Language        | Confidence Level  |  
 |------------------|-------------------|  
-| **Java**         | 🌟🌟🌟🌟🌟🌟 |  
-| **Python**       | 🌟🌟🌟🌟🌟🌟 |  
+| **Java**         | 🌟🌟🌟🌟🌟🌟🌟 |  
+| **Python**       | 🌟🌟🌟🌟🌟🌟🌟 |  
 | **Elixir**       | 🌟           |  
 | **Go**           | 🌟🌟🌟       |  
-| **JavaScript**   | 🌟🌟🌟🌟🌟   |  
+| **JavaScript**   | 🌟🌟🌟🌟🌟    |  
 | **Scala**        | 🌟🌟         |  
 
 
