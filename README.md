@@ -21,7 +21,7 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 ## 🌟 Fun Facts  
 
 - 📚 **Bookworm:** Always reading! Feel free to recommend a book or ask me for one!  
-  - *Current reads:* El infinito en un Junco. Los Hombres Invisibles.   
+  - *Current reads:* El infinito en un Junco.  
 - 🎮 **Gamer:** Currently exploring *Stardew Valley* and *Pokémon Violet*
 - ⚡ **Other hobbies:** Creating video games, exploring AI, and crafting creative side projects.  
 
