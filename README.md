@@ -2,7 +2,7 @@
 
 ✨ **Engineer | Developer | Data Wizard | Gamer** ✨  
 
-I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus on Data Analytics**. Passionate about crafting clean and efficient code, exploring cutting-edge technologies, and solving problems that matter. I'm always eager to learn and share knowledge through collaboration and mentorship. I also love art, design, tattoos and animations.   
+I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus on Data Analytics** and a Poet. Passionate about crafting clean and efficient code, exploring cutting-edge technologies, and solving problems that matter. I'm always eager to learn and share knowledge through collaboration and mentorship. I also love art, design, tattoos and animations.   
 
 ## 🚀 About Me  
 
