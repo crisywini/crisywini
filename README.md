@@ -13,7 +13,6 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
   - Frontend Frameworks: **Vue.js**, **React**  
   - Microservices & Scalability: Designing robust systems.  
   - Data Analytics: From pipelines to insights.  
-
 - 👯 **Looking to collaborate on:** Open source projects and innovative tech ideas.  
 - 🤔 **Seeking help with:** Advanced clean code practices.  
 - 💬 **Ask me about:** Data science, backend development, and microservice architecture.  
