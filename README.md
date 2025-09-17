@@ -10,7 +10,8 @@ I'm a **Systems and Computer Engineer** and **Master in Engineering with a focus
 - 🌱 **Currently learning:** Clean code principles, Java, Spring, Python for data science, microservices architecture, Go, and Elixir.  
 - 🎯 **Core expertise:**  
   - Backend Development: **Spring**, **Helidon**, **FastAPI**  
-  - Frontend Frameworks: **Vue.js**, **React**  
+  - Frontend Frameworks: **Vue.js**, **React**
+  - Mobile Frameworks: **Android**, **Flutter**
   - Microservices & Scalability: Designing robust systems.  
   - Data Analytics: From pipelines to insights.  
 - 👯 **Looking to collaborate on:** Open source projects and innovative tech ideas.  
