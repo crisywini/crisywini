@@ -75,35 +75,31 @@ drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 
 <br>
 
+<div align="center">
+
 **Languages**
 
-| | Language | Level |
-|:---:|:---|:---|
-| ◆ | **Java** | daily driver · backend workhorse |
-| ◆ | **Python** | data pipelines · scripting · science |
-| ◇ | **Go** | actively building · loving it |
-| ◇ | **JavaScript** | when frontend calls |
-| ○ | **Swift** | new chapter · iOS adventures |
-| ○ | **Scala** | familiar · respectful distance |
-| · | **Elixir** | curious · someday |
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,js,swift,scala&theme=dark)](https://skillicons.dev)
 
 <br>
 
 **Backend & Infrastructure**
 
-```
-▸  Helidon · Spring Boot · FastAPI · Gin
-▸  Apache Beam · Elasticsearch · Datastore · Firestore
-▸  Docker · Kubernetes · GCP — Pub/Sub · BigQuery · Cloud Run
-▸  REST · gRPC · Microservices · Event-driven architecture
-```
+[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,docker,kubernetes,gcp,elasticsearch&theme=dark)](https://skillicons.dev)
+
+<br>
 
 **Frontend & Mobile** &nbsp; *(because aesthetics matter)*
 
-```
-▸  Vue.js · React
-▸  SwiftUI · Flutter · Android
-```
+[![My Skills](https://skillicons.dev/icons?i=vue,react,flutter,swift,android&theme=dark)](https://skillicons.dev)
+
+<br>
+
+**Data & Cloud**
+
+[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,kafka,git,github,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 <br>
 
@@ -119,11 +115,23 @@ drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisywini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89CFF0&icon_color=89CFF0&text_color=cdd6f4&ring_color=89CFF0)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisywini&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89CFF0&text_color=cdd6f4&layout=compact)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crisywini&theme=nord_dark)](https://github.com/crisywini)
+
+<br>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crisywini&theme=nord_dark)](https://github.com/crisywini)
+&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crisywini&theme=nord_dark)](https://github.com/crisywini)
+
+<br>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crisywini&theme=nord_dark)](https://github.com/crisywini)
+&nbsp;&nbsp;
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crisywini&theme=nord_dark&utcOffset=-5)](https://github.com/crisywini)
 
 </div>
+
+
 
 <div align="center">
 
