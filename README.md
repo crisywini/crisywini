@@ -1,19 +1,26 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════╗
-║   ./run crisi.exe —mode=full_chaos_but_make_it    ║
-║                         ✦ elegant ✦               ║
-╚═══════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║   ./run crisi.exe  —mode=precision  —style=sharp      ║
+╚════════════════════════════════════════════════════════╝
 ```
 
-# `> whoami` &nbsp; 𓆩 Crisi 𓆪
+<br>
 
-**`engineer`** · **`data witch`** · **`backend architect`** · **`poet`** · **`gamer`**
+# &nbsp; `> whoami` &nbsp; ⟨ Crisi ⟩
 
-*Systems & Computer Engineer · MSc in Data Analytics · Occasional Chaos Agent*
+**`engineer`** &nbsp;·&nbsp; **`data scientist`** &nbsp;·&nbsp; **`backend architect`** &nbsp;·&nbsp; **`poet`** &nbsp;·&nbsp; **`gamer`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=C9A0DC&center=true&vCenter=true&width=500&lines=clean+code+is+an+aesthetic+choice+%E2%9C%A6;backend+by+day%2C+bookworm+by+night+%F0%9F%8C%99;building+things+that+matter+%E2%80%94+beautifully;tattooed+%26+caffeinated+%26+debugging)](https://git.io/typing-svg)
+<sub>Systems & Computer Engineer &nbsp;·&nbsp; MSc in Data Analytics &nbsp;·&nbsp; Occasional Chaos Agent</sub>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=89CFF0&center=true&vCenter=true&width=520&lines=clean+code+is+an+aesthetic+choice;backend+by+day%2C+bookworm+by+night;building+systems+that+scale+%E2%80%94+beautifully;tattooed+%26+caffeinated+%26+debugging)](https://git.io/typing-svg)
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=crisywini&color=89CFF0&style=flat-square&label=profile+views)
 
 </div>
 
@@ -21,127 +28,164 @@
 
 <div align="center">
 
-### ✦ &nbsp; `cat about_me.txt` &nbsp; ✦
+### `cat about_me.txt`
 
 </div>
 
-I write code the way I read books — with intention, curiosity, and a cup of something warm. I'm a backend engineer who sneaks into data science territory, occasionally makes frontend things cute, and always leaves the codebase better than I found it.
+<br>
 
-I believe great software is like great prose: **precise, purposeful, and quietly elegant.**
+I write code the way I read books — with intention, curiosity, and a cup of something warm. Backend engineer by trade, data scientist by passion, and poet by nature.
 
-I also love tattoos, animations, art, design, and finding poetry in technical documentation (yes, really).
+I design systems that scale, pipelines that breathe, and occasionally make frontend things look sharp. I always leave the codebase better than I found it.
+
+> *Great software is like great prose: precise, purposeful, and quietly elegant.*
+
+I also love tattoos, animations, art, design, and finding poetry in technical documentation. Yes, really.
+
+<br>
 
 ---
 
 <div align="center">
 
-### ✦ &nbsp; `ls -la current_obsessions/` &nbsp; ✦
+### `ls -la ~/now/`
 
 </div>
+
+<br>
 
 ```bash
-$ ls -la ~/now/
-
-drwxr-xr-x  backend_architecture/     # microservices, GCP, distributed systems
-drwxr-xr-x  learning/                 # Go ✦ Swift ✦ Clean Code principles
-drwxr-xr-x  side_projects/            # Micro-SaaS · custom Beam IO · iOS apps
-drwxr-xr-x  currently_reading/        # El símbolo perdido 📖
-drwxr-xr-x  currently_playing/        # Pokémon Violet 🌸
--rw-r--r--  open_to_collaborate.txt   # open source · innovative ideas · coffee chats
+drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems
+drwxr-xr-x  learning/               # Go · Swift · Clean Architecture
+drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
+-rw-r--r--  currently_reading       # El símbolo perdido
+-rw-r--r--  currently_playing       # Pokémon Violet
+-rw-r--r--  open_to_collaborate     # open source · innovative ideas · coffee chats
 ```
+
+<br>
 
 ---
 
 <div align="center">
 
-### ✦ &nbsp; `cat stack.json` &nbsp; ✦
+### `cat stack.json`
 
 </div>
 
-**Languages** — fluent to dabbling
+<br>
 
-| &nbsp; | Language | &nbsp; |
+**Languages**
+
+| | Language | Level |
 |:---:|:---|:---|
-| 🖤 | **Java** | daily driver · backend workhorse |
-| 🖤 | **Python** | data pipelines · scripting · science |
-| 💜 | **Go** | actively learning · loving it |
-| 💜 | **JavaScript** | when frontend calls |
-| 🩷 | **Swift** | new chapter · iOS adventures |
-| 🤍 | **Scala** | familiar · respectful distance |
-| 🤍 | **Elixir** | curious · someday |
+| ◆ | **Java** | daily driver · backend workhorse |
+| ◆ | **Python** | data pipelines · scripting · science |
+| ◇ | **Go** | actively building · loving it |
+| ◇ | **JavaScript** | when frontend calls |
+| ○ | **Swift** | new chapter · iOS adventures |
+| ○ | **Scala** | familiar · respectful distance |
+| · | **Elixir** | curious · someday |
 
-**Backends & Frameworks**
+<br>
 
-```
-☑  Helidon · Spring Boot · FastAPI
-☑  Apache Beam · Elasticsearch · Datastore / Firestore
-☑  Docker · Kubernetes · GCP (Pub/Sub · BigQuery · Cloud Run)
-☑  REST · Microservices · Event-driven architecture
-```
-
-**Frontend & Mobile** *(because sometimes you want pretty things)*
+**Backend & Infrastructure**
 
 ```
-◈  Vue.js · React
-◈  SwiftUI · Flutter · Android
+▸  Helidon · Spring Boot · FastAPI · Gin
+▸  Apache Beam · Elasticsearch · Datastore · Firestore
+▸  Docker · Kubernetes · GCP — Pub/Sub · BigQuery · Cloud Run
+▸  REST · gRPC · Microservices · Event-driven architecture
 ```
+
+**Frontend & Mobile** &nbsp; *(because aesthetics matter)*
+
+```
+▸  Vue.js · React
+▸  SwiftUI · Flutter · Android
+```
+
+<br>
 
 ---
 
 <div align="center">
 
-### ✦ &nbsp; `git log --oneline --graph` &nbsp; ✦
+### `git log --oneline --graph`
+
+</div>
+
+<br>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisywini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89CFF0&icon_color=89CFF0&text_color=cdd6f4&ring_color=89CFF0)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisywini&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=89CFF0&text_color=cdd6f4&layout=compact)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisywini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&icon_color=c9a0dc&text_color=cdd6f4&ring_color=c9a0dc)
-&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisywini&hide_progress=false&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c9a0dc&text_color=cdd6f4&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=crisywini&theme=tokyonight&hide_border=true&background=0d1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-### ✦ &nbsp; `cat bookshelf.log | tail -5` &nbsp; ✦
+### `cat bookshelf.log`
 
 </div>
 
-> *"A reader lives a thousand lives before they die. The person who never reads lives only one."*
+<br>
 
-Always reading. Always. Feel free to slide into my DMs with recommendations — or ask me for one.
-Currently underlining things in **El símbolo perdido**. Before that: everything I could find about distributed systems, and a few novels that wrecked me.
+Always reading. Without exception.
 
-📚 `recommend --genre=anything --condition=will_make_me_think`
+Currently annotating **El símbolo perdido**. Before that: distributed systems textbooks, a few novels that genuinely wrecked me, and everything in between.
+
+Recommend something. Or ask me to recommend something. Either works.
+
+```
+$ read --genre=anything --must=make_me_think
+```
+
+<br>
 
 ---
 
 <div align="center">
 
-### ✦ &nbsp; `./connect.sh` &nbsp; ✦
+### `./connect.sh`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/cristian-sánchez-pineda-7164581a0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23c9a0dc.svg?style=for-the-badge&logo=github&logoColor=white)](https://crisywini.github.io/)
-[![Email](https://img.shields.io/badge/Email-harmaharcri%40hotmail.com-c9a0dc?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:harmaharcri@hotmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/cristian-sánchez-pineda-7164581a0)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-89CFF0?style=for-the-badge&logo=github&logoColor=0d1117)](https://crisywini.github.io/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=89CFF0)](mailto:harmaharcri@hotmail.com)
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  "Code with passion, learn with curiosity,           ║
-║         live with creativity."                       ║
-║                                                      ║
-║                              — crisi, probably 3am  ║
-╚══════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║   "Code with passion, learn with curiosity,               ║
+║          live with creativity."                           ║
+║                                                           ║
+║                                      — crisi, 3am again  ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-*made with ♡ and an unreasonable amount of caffeine*
+<sub>made with precision · and an unreasonable amount of caffeine</sub>
 
 </div>
