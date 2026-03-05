@@ -2,7 +2,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════╗
-║   ./run crisi.exe  —mode=precision  —style=sharp      ║
+║   ./run crisi.sh  —mode=precision  —style=sharp        ║
 ╚════════════════════════════════════════════════════════╝
 ```
 
