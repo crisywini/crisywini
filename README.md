@@ -153,7 +153,7 @@ drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 
 Always reading. Without exception.
 
-Currently annotating **El símbolo perdido**. Before that: distributed systems textbooks, a few novels that genuinely wrecked me, and everything in between.
+Currently annotating **Babel**. Before that: distributed systems textbooks, a few novels that genuinely wrecked me, and everything in between.
 
 Recommend something. Or ask me to recommend something. Either works.
 
