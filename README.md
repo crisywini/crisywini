@@ -40,7 +40,7 @@ I design systems that scale, pipelines that breathe, and occasionally make front
 
 > *Great software is like great prose: precise, purposeful, and quietly elegant.*
 
-I also love tattoos, animations, art, design, and finding poetry in technical documentation. Yes, really.
+I also love tattoos design, animations, art, design, and finding poetry in technical documentation. Yes, really.
 
 <br>
 
@@ -58,7 +58,7 @@ I also love tattoos, animations, art, design, and finding poetry in technical do
 drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems
 drwxr-xr-x  learning/               # Go · Swift · Clean Architecture
 drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
--rw-r--r--  currently_reading       # El símbolo perdido
+-rw-r--r--  currently_reading       # Dear Evan Hensen
 -rw-r--r--  currently_playing       # Pokémon Violet
 -rw-r--r--  open_to_collaborate     # open source · innovative ideas · coffee chats
 ```
