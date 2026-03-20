@@ -55,7 +55,7 @@ I also love tattoos design, animations, art, design, and finding poetry in techn
 <br>
 
 ```bash
-drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems
+drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems . Cloud Architecture
 drwxr-xr-x  learning/               # Go · Swift · Clean Architecture
 drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 -rw-r--r--  currently_reading       # Dear Evan Hensen
