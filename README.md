@@ -135,8 +135,6 @@ drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=crisywini&theme=tokyonight&hide_border=true&background=0d1117&ring=89CFF0&fire=89CFF0&currStreakLabel=89CFF0&sideLabels=cdd6f4&dates=cdd6f4&currStreakNum=ffffff&sideNums=ffffff)
-
 </div>
 
 <br>
