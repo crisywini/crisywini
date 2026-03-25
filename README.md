@@ -58,7 +58,7 @@ I also love tattoos design, animations, art, design, and finding poetry in techn
 drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems . Cloud Architecture
 drwxr-xr-x  learning/               # Go · Swift · Clean Architecture
 drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
--rw-r--r--  currently_reading       # Dear Evan Hensen
+-rw-r--r--  currently_reading       # Los Ojos de Mona
 -rw-r--r--  currently_playing       # Pokémon Violet
 -rw-r--r--  open_to_collaborate     # open source · innovative ideas · coffee chats
 ```
