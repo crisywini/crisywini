@@ -36,7 +36,7 @@
 
 I write code the way I read books — with intention, curiosity, and a cup of something warm. Backend engineer by trade, data scientist by passion, and poet by nature.
 
-I design systems that scale, pipelines that breathe, and occasionally make frontend things look sharp. I always leave the codebase better than I found it.
+I design systems that scale, pipelines that breathe, and occasionally make frontend things look sharp. I always leave the codebase better than I found it. Always. 
 
 > *Great software is like great prose: precise, purposeful, and quietly elegant.*
 
