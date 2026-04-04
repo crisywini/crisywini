@@ -56,7 +56,7 @@ I also love tattoos design, animations, art, design, and finding poetry in techn
 
 ```bash
 drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed systems . Cloud Architecture
-drwxr-xr-x  learning/               # Go · Swift · Clean Architecture
+drwxr-xr-x  learning/               # Go · Swift · Clean Architecture · React 
 drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 -rw-r--r--  currently_reading       # Los Ojos de Mona and Babel 
 -rw-r--r--  currently_playing       # Pokémon Violet and Sex and the city 
