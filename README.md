@@ -188,8 +188,12 @@ $ read --genre=anything --must=make_me_think
 ║   "Code with passion, learn with curiosity,               ║
 ║          live with creativity."                           ║
 ║                                                           ║
-║                                      — crisi, 3am again  ║
+║                                      — crisi, 3am again   ║
 ╚═══════════════════════════════════════════════════════════╝
+
+"and I couldn't help but wonder... if the best code, like the best love stories, is never truly finished — just beautifully iterated."
+— crisi, probably at 3am
+
 ```
 
 <sub>made with precision · and an unreasonable amount of caffeine</sub>
