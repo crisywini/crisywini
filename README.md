@@ -59,7 +59,7 @@ drwxr-xr-x  backend_architecture/   # microservices · GCP · distributed system
 drwxr-xr-x  learning/               # Go · Swift · Clean Architecture · React 
 drwxr-xr-x  side_projects/          # Micro-SaaS · custom Beam IO · iOS apps
 -rw-r--r--  currently_reading       # leer y dormir
--rw-r--r--  currently_watching      # The good doctor
+-rw-r--r--  currently_watching      # Sex and the City
 -rw-r--r--  currently_playing       # Pokémon Violet and Super Mario 3D Land
 -rw-r--r--  open_to_collaborate     # open source · innovative ideas · coffee chats
 ```
