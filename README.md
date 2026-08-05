@@ -10,7 +10,7 @@
 
 # &nbsp; `> whoami` &nbsp; ⟨ Crisi ⟩
 
-**`engineer`** &nbsp;·&nbsp; **`data scientist`** &nbsp;·&nbsp; **`backend architect`** &nbsp;·&nbsp; **`poet`** &nbsp;·&nbsp; **`gamer`**
+**`engineer`** &nbsp;·&nbsp; **`data scientist`** &nbsp;·&nbsp; **`backend architect`** &nbsp;·&nbsp; **`poet`** &nbsp;·&nbsp; **`gamer`** &nbsp;·&nbsp; **`dancer`**
 
 <sub>Systems & Computer Engineer &nbsp;·&nbsp; MSc in Data Analytics &nbsp;·&nbsp; Occasional Chaos Agent</sub>
 
